@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "557700019849",
+      "firebase_url": "https://flutterdemo-846f8.firebaseio.com",
+      "project_id": "flutterdemo-846f8",
+      "storage_bucket": "flutterdemo-846f8.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:557700019849:android:eec148c49f72afb402b858",
+          "android_client_info": {
+            "package_name": "com.example.flufirebasesignin"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "557700019849-llc64eb5hrambh76d3o03q4gq1sjk3oh.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.flufirebasesignin",
+              "certificate_hash": "d501e660b46abf1aba05db35c9181a8fc9b4b7c5"
+            }
+          }
+        ]
+      }
+    ],
+    "configuration_version": "1"
+  }
